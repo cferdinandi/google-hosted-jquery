@@ -67,8 +67,7 @@ function ghjquery_theme_options_render_page() {
     ?>
     <div class="wrap">
         <?php screen_icon(); ?>
-        <h2><?php _e( 'Google-Hosted jQuery Options', 'ghjquery' ); ?></h2>
-        <?php settings_errors(); ?>
+        <h2><?php _e( 'Google CDN jQuery Options', 'ghjquery' ); ?></h2>
 
         <form method="post" action="options.php">
             <?php
@@ -86,8 +85,9 @@ function ghjquery_theme_options_render_page() {
 // Add the theme options page to the admin menu
 function ghjquery_theme_options_add_page() {
     $theme_page = add_submenu_page(
-        'options-general.php', // Name of page
-        'Google-Hosted jQuery', // Label in menu
+        'options-general.php', // parent slug
+        'Google CDN jQuery', // Label in menu
+        'Google CDN jQuery', // Label in menu
         'edit_theme_options', // Capability required
         'ghjquery_theme_options', // Menu slug, used to uniquely identify the page
         'ghjquery_theme_options_render_page' // Function that renders the options page
