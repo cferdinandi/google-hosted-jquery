@@ -17,7 +17,7 @@
 function ghjquery_settings_field_version_number() {
     $options = ghjquery_get_theme_options();
     ?>
-    <input type="text" name="ghjquery_theme_options[version_number]" id="version-number" value="<?php echo esc_attr( $options['version_number'] ); ?>" />
+    <input type="text" name="ghjquery_theme_options[version_number]" id="version-number" value="<?php echo esc_attr( $options['version_number'] ); ?>" /><br />
     <label class="description" for="version-number">Default: <code>1.9.1</code></label>
     <?php
 }
