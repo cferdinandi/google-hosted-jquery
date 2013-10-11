@@ -1,5 +1,5 @@
 # Google-Hosted jQuery
-Use the Google CDN version of jQuery in WordPress, with a local fallback.
+Use the Google CDN version of jQuery in WordPress, with a local fallback. Forked from [Travis Smith's script on GitHub](https://gist.github.com/wpsmith/4083811).
 
 
 ## How It Works
