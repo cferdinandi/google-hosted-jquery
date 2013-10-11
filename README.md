@@ -3,13 +3,7 @@ Use the Google CDN version of jQuery in WordPress, with a local fallback. Forked
 
 
 ## How It Works
-Getting started with Google-Hosted jQuery is as simple as installing a plugin:
-
-1. Upload the `google-hosted-jquery` folder to the `/wp-content/plugins/` directory.
-2. Activate the plugin through the Plugins menu in WordPress.
-3. Pat yourself on the back.
-
-Seriously, you're done. Nice work! jQuery 1.9.1 is the version used by default, but you change the version number under "Settings" in the Admin Dashboard.
+Getting started with Google-Hosted jQuery is really easy. [View the tutorial.](http://cferdinandi.github.io/google-hosted-jquery/)
 
 
 ## Changelog
