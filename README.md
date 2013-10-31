@@ -7,6 +7,8 @@ Getting started with Google-Hosted jQuery is really easy. [View the tutorial.](h
 
 
 ## Changelog
+* v1.1 (October 31, 2013)
+  * Added a link to settings from plugin menu.
 * v1.0 (October 10, 2013)
   * Initial release.
 
