@@ -1,5 +1,7 @@
 # Google-Hosted jQuery
 
+***Deprecation Notice:*** *This plugin is no longer being maintained. [Learn more.](http://gomakethings.com/ditching-jquery/)*
+
 Use the Google CDN version of jQuery in WordPress, with a local fallback if it's unavailable.
 
 Google-Hosted jQuery is a plugin that uses the Google-hosted version of jQuery for better site performance. It includes a local fallback in case Google's CDN is unavailable. Forked from [Travis Smith's script on GitHub](https://gist.github.com/wpsmith/4083811).
