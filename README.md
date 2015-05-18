@@ -1,4 +1,4 @@
-# Google-Hosted jQuery
+# [DEPRECATED] Google-Hosted jQuery
 
 ***Deprecation Notice:*** *This plugin is no longer being maintained. [Learn more.](http://gomakethings.com/ditching-jquery/)*
 
